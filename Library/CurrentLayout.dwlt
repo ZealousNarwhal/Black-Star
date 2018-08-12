@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 26
+  controlID: 115
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,8 +255,8 @@ MonoBehaviour:
     y: 0
     width: 504
     height: 947
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -396,7 +396,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: aad4edff76d5edff9ed6edffa4d6edfface5edff30e6edff58e7edff5ee7edff7aededfffcededff26efedff2cefedff4e6fefffd86fefff0071efff0671efffae73efff3874efff6075efff6675efff587befffe27befff0a7defff107defff3e82efffc882effff083effff683efffa888efff3089efff5e8aefff688aefffea9aefff6a9befff929cefff989cefff56a0efffd6a0effffea1efff04a2efffe4a5efff62a6efff8aa7efff90a7efffe4c4efff90d8efff0ed9efff3edaefff42daefff58bdf0ff28bff0ff4ad3f0ffd0d3f0fff8d4f0fffed4f0ffaa70f4ff2a71f4ff6472f4ff7c72f4fffafcf4ff7efdf4ffaafef4ffb4fef4ffae31f5ffee4ff5fffc5df6ffc48ef6ff408ff6ff7290f6ff7a90f6ff1299f6ff9299f6ffc49af6ffcc9af6ffc09bf6ff829ef6ff44abf6ffc42ef7ffa6d9f8ff12e6f8ff9ce6f8ffcce7f8ff0af8f8ff92f8f8ffc2f9f8ff10a3f9ff0251fbffe6dafcffcadbfcffc8f6fcff54fdfcff76cdfdffa6fbffff00000000bc310000ce310000da360000ea360000563e0000903f0000064b0000e04e0000fe4e000076540000ca70000070860000
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -574,19 +574,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Audio
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Audio
+  - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Mike\Documents\Unity Projects\LD42
+  m_LastProjectPath: C:\Users\Mike\Documents\GitHub\black-star
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 92860000
-    m_LastClickedID: 34450
-    m_ExpandedIDs: 00000000302700003c27000000ca9a3bffffff7f
+    m_SelectedIDs: 36270000
+    m_LastClickedID: 10038
+    m_ExpandedIDs: 00000000362700004627000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -614,7 +614,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000030270000
+    m_ExpandedIDs: 000000003627000046270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -641,7 +641,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 88050000681d000022060000ce05000016b200009a6f00007c8f000050000000d8010000da0200001c0300001203000044000000465000001058000008730100f2d40000d65e0100e65e0100f65e01003cce00006e000000be180000dc00000070000000fe00000026010000e8240000da090100a62c0000944f0000462900004827000094da02005e270000ba27000050280000a2270000e227000084270000862700007627000000000000da17eeff4c27000004640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
